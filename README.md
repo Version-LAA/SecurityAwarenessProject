@@ -1,5 +1,7 @@
 # Security Awareness Program Development Template
-As part of my security program and security awareness class for Sans, I developed a mock security awareness program that can be used by organization to mature their cyber security posture. The mock program is based on a fictional themepark without a mature security program. Executive summary can be seen below, with full writeup available : ![HERE ](https://github.com/cybersecurebyte/SecurityAwarenessProgram/blob/main/SecurityAwarenessProgram_Latoya%20Jamison.pdf)
+As part of my security program and security awareness class for Sans, I developed a mock security awareness program that can be used by organization to mature their cyber security posture. The mock program is based on a fictional themepark without a mature security program. Executive summary can be seen below, with full writeup available : ![HERE](https://github.com/cybersecurebyte/SecurityAwarenessProgram/blob/main/SecurityAwarenessProgram_Latoya%20Jamison.pdf)
+
+![Header](https://github.com/cybersecurebyte/SecurityAwarenessProgram/blob/main/Screen%20Shot%202021-01-22%20at%206.35.33%20PM.png)
 
 
 
